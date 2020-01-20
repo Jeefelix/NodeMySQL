@@ -19,7 +19,7 @@
       "mysql2": "^1.4.2",
       "pug": "~2.0.0-beta11",
       "redis": "^2.8.0",
-      "sequelize": "^4.15.0"
+      "sequelize": "^5.15.1"
     },
     "devDependencies": {
       "eslint": "^4.8.0",
